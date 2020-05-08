@@ -71,16 +71,3 @@ SELECT mdate,
 TIP: Use left join because the match might not have goal.
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
